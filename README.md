@@ -1,0 +1,1 @@
+# cinema-simulator-chrome-extension
