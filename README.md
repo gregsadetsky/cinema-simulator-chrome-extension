@@ -1,4 +1,4 @@
-# Cinema Simulator Chrome Extension
+# "Cinema Simulator" Chrome Extension
 
 <img width="960" height="600" src="https://github.com/user-attachments/assets/0210ffce-1c8f-4bc8-8e6e-3adb33bf0393" />
 
