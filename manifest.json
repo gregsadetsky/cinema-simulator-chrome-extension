@@ -1,0 +1,36 @@
+{
+  "name": "Cinema Simulator",
+  "description": "Simulate the experience of being at the cinema",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "persons.png",
+        "audio/popcorn.mp3",
+        "audio/cough00001.wav",
+        "audio/cough00002.wav",
+        "audio/cough00003.wav",
+        "audio/cough00004.wav",
+        "audio/cough00005.wav",
+        "audio/cough00006.wav",
+        "audio/cough00007.wav",
+        "audio/cough00008.wav",
+        "audio/cough00009.wav",
+        "audio/cough00010.wav",
+        "audio/cough00011.wav",
+        "audio/cough00012.wav"
+      ],
+      "matches": ["*://*.youtube.com/*"]
+    }
+  ]
+}
