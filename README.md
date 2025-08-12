@@ -1,6 +1,6 @@
 # "Cinema Simulator" Chrome Extension
 
-<p align=center><b><i>Simulate the auditory and visual experience of being at the cinema. Load the extension and head to YouTube.com!</i></b></p>
+<p align=center><b><i>Simulate the auditory and visual experience of being at the cinema. Load the extension and head to YouTube.com!</i></b><br>(see instructions below)</p>
 
 <img width="960" height="600" src="https://github.com/user-attachments/assets/0210ffce-1c8f-4bc8-8e6e-3adb33bf0393" />
 
