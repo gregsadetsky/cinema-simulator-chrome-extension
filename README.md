@@ -6,7 +6,7 @@
 
 ## how to install
 
-- download this code into a directory
+- download this code into a directory - [here's the code zipped](https://github.com/gregsadetsky/cinema-simulator-chrome-extension/archive/refs/heads/main.zip)
 - go into your Chrome Settings and head to the Extensions page -- you can also try going to `chrome://extensions/` directly
 - in the most top right corner, toggle the Developer mode on
 - in the row of buttons that just appeared, in the top left, click "Load unpacked"
